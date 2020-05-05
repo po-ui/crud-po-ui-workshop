@@ -1,6 +1,6 @@
 # Implementando CRUD com PO-UI
 
-Este projeto foi desenvolvido com o desafio de contruir um CRUD básico utilizando po-ui.
+Este projeto foi desenvolvido com o desafio de construir um CRUD básico utilizando po-ui.
 
 ### Apresentação
 
