@@ -11,7 +11,7 @@ Link da [Apresentação](https://docs.google.com/presentation/d/e/2PACX-1vS3MgYK
 > Bash
 
 ```
-  npm i -g @angular/cli@9.1.0
+  npm i -g @angular/cli@10
 ```
 
 ### Inicializando um projeto angular novo.
@@ -19,37 +19,8 @@ Link da [Apresentação](https://docs.google.com/presentation/d/e/2PACX-1vS3MgYK
 > Bash
 
 ```
- ng new crud-po --skipInstall --routing --style=css
+ ng new crud-po --routing --style=css
  cd crud-po
-```
-
-### Verificando as dependências
-
-[Documentação](https://po-ui.io/guides/getting-started)
-
-```
-  "dependencies": {
-    "@angular/animations": "~9.1.0",
-    "@angular/common": "~9.1.0",
-    "@angular/compiler": "~9.1.0",
-    "@angular/core": "~9.1.0",
-    "@angular/forms": "~9.1.0",
-    "@angular/platform-browser": "~9.1.0",
-    "@angular/platform-browser-dynamic": "~9.1.0",
-    "@angular/router": "~9.1.0",
-    "rxjs": "~6.5.4",
-    "tslib": "^1.11.1",
-    "zone.js": "~0.10.3"
-    ...
-  }
-```
-
-### Instalando o npm
-
-> Bash
-
-```
- npm install
 ```
 
 ### Adicionando po ao projeto.
