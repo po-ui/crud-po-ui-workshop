@@ -11,7 +11,7 @@ Link da [Apresentação](https://docs.google.com/presentation/d/e/2PACX-1vS3MgYK
 > Bash
 
 ```
-  npm i -g @angular/cli@~10.0.2
+  npm i -g @angular/cli@11
 ```
 
 ### Inicializando um projeto angular novo.
@@ -19,7 +19,7 @@ Link da [Apresentação](https://docs.google.com/presentation/d/e/2PACX-1vS3MgYK
 > Bash
 
 ```
- ng new crud-po --routing --style=css
+ ng new crud-po --routing --style=css --strict 
  cd crud-po
 ```
 
@@ -29,7 +29,7 @@ Link da [Apresentação](https://docs.google.com/presentation/d/e/2PACX-1vS3MgYK
 
 ```
  ng add @po-ui/ng-components
- ng add  @po-ui/ng-templates
+ ng add @po-ui/ng-templates
 ```
 
 ### Configuração dos módulos do projeto
