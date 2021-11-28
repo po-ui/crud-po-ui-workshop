@@ -11,7 +11,7 @@ Link da [Apresentação](https://docs.google.com/presentation/d/e/2PACX-1vS3MgYK
 > Bash
 
 ```
-  npm i -g @angular/cli@11
+  npm i -g @angular/cli@12
 ```
 
 ### Inicializando um projeto angular novo.

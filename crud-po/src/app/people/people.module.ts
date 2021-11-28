@@ -9,6 +9,10 @@ import { SharedModule } from '../shared/shared.module';
 
 @NgModule({
   declarations: [PeopleListComponent, PeopleViewComponent, PeopleFormComponent],
-  imports: [CommonModule, SharedModule, PeopleRoutingModule],
+  imports: [
+    CommonModule,
+    SharedModule,
+    PeopleRoutingModule
+  ]
 })
-export class PeopleModule {}
+export class PeopleModule { }
